@@ -77,7 +77,7 @@ flutter run
 
 ## Demo
 
-👉 [Zobacz demo aplikacji](demo.mp4)  
+👉 [Zobacz demo aplikacji](demo.mp4)  (Trzeba kliknąc view raw aby pobrać film)
 
 
 ---
